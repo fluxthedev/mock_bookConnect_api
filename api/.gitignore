@@ -21,3 +21,4 @@ appspec.yml
 .env
 app/.DS_Store
 .DS_Store
+.env.example
